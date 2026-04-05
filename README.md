@@ -1,16 +1,44 @@
-## Hi there 👋
+👋 Hi, I'm Vyshnavi!
+I am a Data Engineer passionate about building scalable data pipelines and robust data architectures. I specialize in transforming raw data into actionable insights using modern cloud technologies.
 
-<!--
-**vyshnavi-nandyala/vyshnavi-nandyala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🏗️ Building: End-to-end ETL/ELT pipelines and Data Lakes.
+☁️ Cloud: Architecting solutions on AWS, Azure, and GCP.
+🔄 Orchestration: Automating workflows with Airflow and dbt.
+📊 Warehousing: Optimizing data models in Snowflake and Databricks.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tech Stack & Tools
+Languages & Databases
+
+Python
+SQL
+Scala
+
+Cloud Platforms
+
+AWS
+Azure
+GCP
+
+Data Engineering & Warehousing
+
+Snowflake
+Databricks
+dbt
+Apache Spark
+Apache Airflow
+Apache Kafka
+
+Infrastructure & DevOps
+https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
+Docker
+Terraform
+Git
+
+📌 Featured Projects
+AWS Lakehouse Pipeline: A serverless pipeline building a data lake on S3 using Glue, Lambda, and Athena.
+[Project 2]: Brief description of your second project.
+[Project 3]: Brief description of your third project.
+
+📫 Connect with Me
+
