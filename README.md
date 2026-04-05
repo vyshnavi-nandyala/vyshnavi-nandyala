@@ -35,9 +35,10 @@ Infrastructure & DevOps
 - Git
 
 📌 Featured Projects
-AWS Lakehouse Pipeline: A serverless pipeline building a data lake on S3 using Glue, Lambda, and Athena.
-[Project 2]: Brief description of your second project.
-[Project 3]: Brief description of your third project.
+- AWS Lakehouse Pipeline: A serverless pipeline building a data lake on S3 using Glue, Lambda, and Athena.
+- [Project 2]: Brief description of your second project.
+- [Project 3]: Brief description of your third project.
 
 📫 Connect with Me
+- https://www.linkedin.com/in/n-vyshnav/
 
