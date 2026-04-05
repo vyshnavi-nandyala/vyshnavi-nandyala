@@ -10,29 +10,29 @@ I am a Data Engineer passionate about building scalable data pipelines and robus
 🛠️ Tech Stack & Tools
 Languages & Databases
 
-Python
-SQL
-Scala
+- Python
+- SQL
+- Scala
 
 Cloud Platforms
 
-AWS
-Azure
-GCP
+- AWS
+- Azure
+- GCP
 
 Data Engineering & Warehousing
 
-Snowflake
-Databricks
-dbt
-Apache Spark
-Apache Airflow
-Apache Kafka
+- Snowflake
+- Databricks
+- dbt
+- Apache Spark
+- Apache Airflow
+- Apache Kafka
 
 Infrastructure & DevOps
-Docker
-Terraform
-Git
+- Docker
+- Terraform
+- Git
 
 📌 Featured Projects
 AWS Lakehouse Pipeline: A serverless pipeline building a data lake on S3 using Glue, Lambda, and Athena.
