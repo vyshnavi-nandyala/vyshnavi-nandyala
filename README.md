@@ -30,7 +30,6 @@ Apache Airflow
 Apache Kafka
 
 Infrastructure & DevOps
-https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
 Docker
 Terraform
 Git
