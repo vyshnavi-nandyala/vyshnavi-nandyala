@@ -40,5 +40,5 @@ Infrastructure & DevOps
 - [Project 3]: Brief description of your third project.
 
 📫 Connect with Me
-- https://www.linkedin.com/in/n-vyshnav/
+- www.linkedin.com/in/nvyshnavireddy
 
