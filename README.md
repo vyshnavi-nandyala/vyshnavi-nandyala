@@ -93,10 +93,12 @@ Personal portfolio showcasing projects, skills, and career timeline.
 ---
 
 ## 📈 GitHub Stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=vyshnavi-nandyala&theme=dark&hide_border=true" height="165"/>
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vyshnavi-nandyala&show_icons=true&theme=dark&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vyshnavi-nandyala&layout=compact&theme=dark&hide_border=true" height="165"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vyshnavi-nandyala&theme=github-dark&hide_border=true&area=true" width="100%"/>
 </p>
 
 ---
